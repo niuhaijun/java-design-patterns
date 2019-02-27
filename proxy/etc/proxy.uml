@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.iluwatar.proxy.IvoryTower</OriginalElement>
+  <nodes>
+    <node x="102.79166666666663" y="165.0">com.iluwatar.proxy.WizardTower</node>
+    <node x="358.99999999999994" y="328.5">com.iluwatar.proxy.IvoryTower</node>
+    <node x="0.0" y="276.0">com.iluwatar.proxy.WizardTowerProxy</node>
+    <node x="121.65624999999997" y="0.0">com.iluwatar.proxy.Wizard</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.iluwatar.proxy.WizardTowerProxy" target="com.iluwatar.proxy.WizardTower">
+      <point x="42.375" y="-96.5" />
+      <point x="211.875" y="256.0" />
+      <point x="186.41666666666663" y="256.0" />
+      <point x="-27.875" y="30.5" />
+    </edge>
+    <edge source="com.iluwatar.proxy.IvoryTower" target="com.iluwatar.proxy.Wizard">
+      <point x="55.75" y="-44.0" />
+      <point x="526.25" y="140.0" />
+      <point x="291.65625" y="140.0" />
+      <point x="68.0" y="57.5" />
+    </edge>
+    <edge source="com.iluwatar.proxy.WizardTower" target="com.iluwatar.proxy.Wizard">
+      <point x="0.0" y="-30.5" />
+      <point x="214.29166666666663" y="140.0" />
+      <point x="223.65624999999997" y="140.0" />
+      <point x="0.0" y="57.5" />
+    </edge>
+    <edge source="com.iluwatar.proxy.IvoryTower" target="com.iluwatar.proxy.WizardTower">
+      <point x="-55.75" y="-44.0" />
+      <point x="414.74999999999994" y="246.0" />
+      <point x="297.91666666666663" y="246.0" />
+      <point x="83.625" y="30.5" />
+    </edge>
+    <edge source="com.iluwatar.proxy.WizardTowerProxy" target="com.iluwatar.proxy.Wizard">
+      <point x="-127.125" y="-96.5" />
+      <point x="42.375" y="256.0" />
+      <point x="92.29166666666663" y="256.0" />
+      <point x="92.29166666666663" y="140.0" />
+      <point x="155.65624999999997" y="140.0" />
+      <point x="-68.0" y="57.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="291.0" y="234.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
