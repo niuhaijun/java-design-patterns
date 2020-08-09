@@ -7,7 +7,7 @@
   </nodes>
   <notes />
   <edges />
-  <settings layout="Hierarchic Group" zoom="1.0" x="144.5" y="17.5" />
+  <settings layout="Hierarchic Group" zoom="1.0" x="163.5" y="72.0" />
   <SelectedNodes>
     <node>com.iluwatar.singleton.ThreadSafeLazyLoadedIvoryTower</node>
   </SelectedNodes>
